@@ -48,7 +48,7 @@ I have created below files
 
 
 
-## Features
+## Key highlights
 
 - Created MYSQL DB with Database name: `userdb`
 - Used GORM Package for DB Operation 
