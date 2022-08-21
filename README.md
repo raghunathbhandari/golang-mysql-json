@@ -39,7 +39,7 @@ Four Method GET, POST, PUT, DELETE from Postman
 
 ## Page Structure
 
-I have created three files
+I have created below files
 
 - `main.go` 
 - `db-connection.go` 
